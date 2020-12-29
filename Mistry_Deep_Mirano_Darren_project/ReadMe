@@ -1,0 +1,26 @@
+CMSC 411 Project
+Darren Mirano, Deep Misty
+
+Language: Python 3
+
+#### Using GL ####
+You can run this project on GL. 
+    1.) Put scoreboard.py in the same directory as the test files. 
+    2.) To run type "python3 scoreboard.py". 
+    3.) Then it will ask you for a text file name. (Make sure you add the .txt)
+
+OR 
+
+#### Using Visual Studio Code ####
+You can also run it on vsCode if you have it.
+    1.) Create a folder with scoreboard.py and all of the .txt files that you would like to test
+    2.) Open the scoreboard.py on vsCode
+    3.) Open terminal on vsCode and navigate to the folder with scoreboard.py 
+    4.) Run by typing "python3 scoreboard.py" 
+    5.) Enter the file name that you would like to test (make sure to include .txt)
+    6.) HAVE FUN! 
+
+We have tested on GL and VS Code and it works. 
+In reality, you can use any python3 interpreter you heart desires.
+
+P.S We left you a EASTER EGG!! (**line 385 ;)**)
